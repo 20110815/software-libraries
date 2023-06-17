@@ -4,7 +4,7 @@
 
 如果你发现值得加入的软件请发邮件到yangzhangxi2011@163.com
 
-百度网盘链接：
+百度网盘链接：链接：https://pan.baidu.com/s/15Tw_9NW8pfbJtX6tTw1QVg?pwd=nhxb 提取码：nhxb
 
 其他：
 
