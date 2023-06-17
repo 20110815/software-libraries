@@ -2,4 +2,9 @@
 
 百度网盘链接：
 
+然后给电脑萌新说一下怎么下载BT文件：
+1.首先安装比特彗星（官网：https://www.bitcomet.com/cn）
+2.把BT文件拖到比特彗星里面开始下载
+3.如果下载速度很慢的话可以考虑添加tracher服务器，详细内容请看：github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md
+
 在此感谢一下GitHub，实在时太强大了，居然刚发布就有人开始下载了！！！
