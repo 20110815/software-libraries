@@ -1,16 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print("什么？你居然无聊到点开main文件而不是去下载那些包？")
+print("要不还是在这里搞点东西吧")
+print("我计划用flask搞个小网站然后把那些文件放到那里，但我没有服务器（悲）所以还是算了，老老实实用BT文件下载吧")
+print("溜了溜了")
